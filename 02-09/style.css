@@ -1,0 +1,30 @@
+h1 {
+    color:  rgb(110, 0, 0);
+    font-family: 'Franklin Gothic Medium'
+}
+h2 {
+    color:  rgb(110, 0, 0);
+    font-family: 'Franklin Gothic Medium'
+}
+h3 {
+    color:  rgb(110, 0, 0);
+    font-family: 'Franklin Gothic Medium'
+}
+p {
+    color:  rgb(110, 0, 0);
+    font-family: 'Franklin Gothic Medium'
+}
+button {
+    background-color: black;
+    color: rgb(110, 0, 0);
+    font-family: 'Franklin Gothic Medium'
+}
+body {
+    background-color: black;
+    color:  rgb(110, 0, 0);
+}
+img {
+    width: 800px ;
+    height: auto ;
+}
+
